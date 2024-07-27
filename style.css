@@ -276,6 +276,14 @@ p {
   max-width: 1000px;
   margin: 0 auto;
 }
+div .seo {
+  display: flex;
+  gap: 30px;
+}
+div .bolck {
+  font-size: 3rem;
+}
+
 #services .service-bottom {
   display: flex;
   align-items: center;
