@@ -588,6 +588,50 @@ video {
   }
 }
 
+.mt-36 {
+  margin-top: 9rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.gap-20 {
+  gap: 5rem;
+}
+
+.p-14 {
+  padding: 3.5rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-6xl {
+  font-size: 3.75rem;
+  line-height: 1;
+}
+
+.text-8xl {
+  font-size: 6rem;
+  line-height: 1;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.text-red-600 {
+  --tw-text-opacity: 1;
+  color: rgb(220 38 38 / var(--tw-text-opacity));
+}
+
 * {
   padding: 0;
   margin: 0;
